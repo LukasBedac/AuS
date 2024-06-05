@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Algoritmus&lt;T&gt;">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>algoritmus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAEAgBAFAAAAAAAAAAAAiEAkIAEAAAAACAAAAEAA=</HashCode>
+      <FileName>menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nacitac_suboru">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAgAIACAAEAEEAAUBAQUAAgCUAQIAgACAggAAAAAAAE=</HashCode>
+      <FileName>nacitac_suboru.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Obec">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAgAQAAAACAAAEAAABAIAAAAABAwAAAAAAI=</HashCode>
+      <FileName>obec.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sort">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAQAAABAAAAAAAAAAAIAAgAEAA=</HashCode>
+      <FileName>sort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UzemnaJednotka">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAQAAAAgAAYAAAAAAAEiAEAAAMAAAAABAAAAAAAA=</HashCode>
+      <FileName>uzemna_jednotka.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
